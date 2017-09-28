@@ -1,0 +1,6 @@
+D:\Coding\StatementsAndLoops\StatementsAndLoops\bin\Debug\StatementsAndLoops.exe.config
+D:\Coding\StatementsAndLoops\StatementsAndLoops\bin\Debug\StatementsAndLoops.exe
+D:\Coding\StatementsAndLoops\StatementsAndLoops\bin\Debug\StatementsAndLoops.pdb
+D:\Coding\StatementsAndLoops\StatementsAndLoops\obj\Debug\Choose a Drink.csprojResolveAssemblyReference.cache
+D:\Coding\StatementsAndLoops\StatementsAndLoops\obj\Debug\StatementsAndLoops.exe
+D:\Coding\StatementsAndLoops\StatementsAndLoops\obj\Debug\StatementsAndLoops.pdb
