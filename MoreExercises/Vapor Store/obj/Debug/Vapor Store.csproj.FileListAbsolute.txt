@@ -1,0 +1,6 @@
+D:\Coding\MoreExercises\Vapor Store\bin\Debug\Vapor Store.exe.config
+D:\Coding\MoreExercises\Vapor Store\bin\Debug\Vapor Store.exe
+D:\Coding\MoreExercises\Vapor Store\bin\Debug\Vapor Store.pdb
+D:\Coding\MoreExercises\Vapor Store\obj\Debug\Vapor Store.exe
+D:\Coding\MoreExercises\Vapor Store\obj\Debug\Vapor Store.pdb
+D:\Coding\MoreExercises\Vapor Store\obj\Debug\Vapor Store.csprojResolveAssemblyReference.cache

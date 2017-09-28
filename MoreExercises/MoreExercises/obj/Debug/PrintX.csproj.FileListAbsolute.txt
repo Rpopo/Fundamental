@@ -1,0 +1,7 @@
+D:\Coding\MoreExercises\MoreExercises\bin\Debug\MoreExercises.exe.config
+D:\Coding\MoreExercises\MoreExercises\bin\Debug\MoreExercises.exe
+D:\Coding\MoreExercises\MoreExercises\bin\Debug\MoreExercises.pdb
+D:\Coding\MoreExercises\MoreExercises\obj\Debug\MoreExercises.exe
+D:\Coding\MoreExercises\MoreExercises\obj\Debug\MoreExercises.pdb
+D:\Coding\MoreExercises\MoreExercises\bin\Debug\MoreExercises.exe.CodeAnalysisLog.xml
+D:\Coding\MoreExercises\MoreExercises\bin\Debug\MoreExercises.exe.lastcodeanalysissucceeded
