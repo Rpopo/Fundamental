@@ -4,3 +4,10 @@ D:\Coding\MoreExercises\Vapor Store\bin\Debug\Vapor Store.pdb
 D:\Coding\MoreExercises\Vapor Store\obj\Debug\Vapor Store.exe
 D:\Coding\MoreExercises\Vapor Store\obj\Debug\Vapor Store.pdb
 D:\Coding\MoreExercises\Vapor Store\obj\Debug\Vapor Store.csprojResolveAssemblyReference.cache
+C:\Storage\Coding\GitHubRepository\Fundamental\Conditional Statements and Loops\MoreExercises\Vapor Store\bin\Debug\Vapor Store.exe.config
+C:\Storage\Coding\GitHubRepository\Fundamental\Conditional Statements and Loops\MoreExercises\Vapor Store\bin\Debug\Vapor Store.exe
+C:\Storage\Coding\GitHubRepository\Fundamental\Conditional Statements and Loops\MoreExercises\Vapor Store\bin\Debug\Vapor Store.pdb
+C:\Storage\Coding\GitHubRepository\Fundamental\Conditional Statements and Loops\MoreExercises\Vapor Store\obj\Debug\Vapor Store.csprojResolveAssemblyReference.cache
+C:\Storage\Coding\GitHubRepository\Fundamental\Conditional Statements and Loops\MoreExercises\Vapor Store\obj\Debug\Vapor Store.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\GitHubRepository\Fundamental\Conditional Statements and Loops\MoreExercises\Vapor Store\obj\Debug\Vapor Store.exe
+C:\Storage\Coding\GitHubRepository\Fundamental\Conditional Statements and Loops\MoreExercises\Vapor Store\obj\Debug\Vapor Store.pdb
