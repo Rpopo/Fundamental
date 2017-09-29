@@ -1,0 +1,6 @@
+D:\Coding\CSharpDataType\CSharpDataType\bin\Debug\CSharpDataType.exe.config
+D:\Coding\CSharpDataType\CSharpDataType\bin\Debug\CSharpDataType.exe
+D:\Coding\CSharpDataType\CSharpDataType\bin\Debug\CSharpDataType.pdb
+D:\Coding\CSharpDataType\CSharpDataType\obj\Debug\CenturiesConvert.csprojResolveAssemblyReference.cache
+D:\Coding\CSharpDataType\CSharpDataType\obj\Debug\CSharpDataType.exe
+D:\Coding\CSharpDataType\CSharpDataType\obj\Debug\CSharpDataType.pdb

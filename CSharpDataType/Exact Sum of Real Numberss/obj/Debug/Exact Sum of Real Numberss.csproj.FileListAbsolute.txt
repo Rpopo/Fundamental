@@ -1,0 +1,5 @@
+D:\Coding\CSharpDataType\Exact Sum of Real Numberss\bin\Debug\Exact Sum of Real Numberss.exe.config
+D:\Coding\CSharpDataType\Exact Sum of Real Numberss\bin\Debug\Exact Sum of Real Numberss.exe
+D:\Coding\CSharpDataType\Exact Sum of Real Numberss\bin\Debug\Exact Sum of Real Numberss.pdb
+D:\Coding\CSharpDataType\Exact Sum of Real Numberss\obj\Debug\Exact Sum of Real Numberss.exe
+D:\Coding\CSharpDataType\Exact Sum of Real Numberss\obj\Debug\Exact Sum of Real Numberss.pdb

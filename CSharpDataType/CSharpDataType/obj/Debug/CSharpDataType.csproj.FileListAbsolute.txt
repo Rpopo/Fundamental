@@ -1,0 +1,6 @@
+c:\users\radoslav\documents\visual studio 2017\Projects\CSharpDataType\CSharpDataType\bin\Debug\CSharpDataType.exe.config
+c:\users\radoslav\documents\visual studio 2017\Projects\CSharpDataType\CSharpDataType\bin\Debug\CSharpDataType.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\CSharpDataType\CSharpDataType\bin\Debug\CSharpDataType.pdb
+c:\users\radoslav\documents\visual studio 2017\Projects\CSharpDataType\CSharpDataType\obj\Debug\CSharpDataType.csprojResolveAssemblyReference.cache
+c:\users\radoslav\documents\visual studio 2017\Projects\CSharpDataType\CSharpDataType\obj\Debug\CSharpDataType.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\CSharpDataType\CSharpDataType\obj\Debug\CSharpDataType.pdb

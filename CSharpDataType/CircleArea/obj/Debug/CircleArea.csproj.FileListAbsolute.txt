@@ -1,0 +1,5 @@
+D:\Coding\CSharpDataType\CircleArea\bin\Debug\CircleArea.exe.config
+D:\Coding\CSharpDataType\CircleArea\bin\Debug\CircleArea.exe
+D:\Coding\CSharpDataType\CircleArea\bin\Debug\CircleArea.pdb
+D:\Coding\CSharpDataType\CircleArea\obj\Debug\CircleArea.exe
+D:\Coding\CSharpDataType\CircleArea\obj\Debug\CircleArea.pdb

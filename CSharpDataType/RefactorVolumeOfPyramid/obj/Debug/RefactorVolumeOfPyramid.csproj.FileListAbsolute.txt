@@ -1,0 +1,5 @@
+D:\Coding\CSharpDataType\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe.config
+D:\Coding\CSharpDataType\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe
+D:\Coding\CSharpDataType\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.pdb
+D:\Coding\CSharpDataType\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.exe
+D:\Coding\CSharpDataType\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.pdb

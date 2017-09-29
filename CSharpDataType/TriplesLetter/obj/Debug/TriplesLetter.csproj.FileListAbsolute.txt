@@ -1,0 +1,5 @@
+D:\Coding\CSharpDataType\TriplesLetter\bin\Debug\TriplesLetter.exe.config
+D:\Coding\CSharpDataType\TriplesLetter\bin\Debug\TriplesLetter.exe
+D:\Coding\CSharpDataType\TriplesLetter\bin\Debug\TriplesLetter.pdb
+D:\Coding\CSharpDataType\TriplesLetter\obj\Debug\TriplesLetter.exe
+D:\Coding\CSharpDataType\TriplesLetter\obj\Debug\TriplesLetter.pdb
