@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.exe.config
+D:\Coding\DataTypeVariable Exercise\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.exe
+D:\Coding\DataTypeVariable Exercise\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.pdb
+D:\Coding\DataTypeVariable Exercise\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.exe
+D:\Coding\DataTypeVariable Exercise\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.pdb

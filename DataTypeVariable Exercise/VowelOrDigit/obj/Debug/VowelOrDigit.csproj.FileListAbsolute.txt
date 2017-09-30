@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+D:\Coding\DataTypeVariable Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+D:\Coding\DataTypeVariable Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+D:\Coding\DataTypeVariable Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+D:\Coding\DataTypeVariable Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

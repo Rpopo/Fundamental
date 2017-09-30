@@ -19,9 +19,9 @@ namespace RectangleProperties
 
         }
 
-         static decimal PrintDiagonal(double widt, double height)
+         static double PrintDiagonal(double widt, double height)
         {
-            decimal diagonal = (decimal)Math.Sqrt(widt* widt + height * height);
+            double diagonal = Math.Sqrt(widt* widt + height * height);
             return diagonal;
         }
 

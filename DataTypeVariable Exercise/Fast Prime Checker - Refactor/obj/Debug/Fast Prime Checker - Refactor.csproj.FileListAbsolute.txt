@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.exe.config
+D:\Coding\DataTypeVariable Exercise\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.exe
+D:\Coding\DataTypeVariable Exercise\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.pdb
+D:\Coding\DataTypeVariable Exercise\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.exe
+D:\Coding\DataTypeVariable Exercise\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.pdb
