@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Coding\DataTypeVariable Exercise\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Coding\DataTypeVariable Exercise\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Coding\DataTypeVariable Exercise\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Coding\DataTypeVariable Exercise\BooleanVariable\obj\Debug\BooleanVariable.pdb

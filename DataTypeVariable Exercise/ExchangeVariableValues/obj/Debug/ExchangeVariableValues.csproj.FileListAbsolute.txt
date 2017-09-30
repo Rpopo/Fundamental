@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Coding\DataTypeVariable Exercise\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\Coding\DataTypeVariable Exercise\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\Coding\DataTypeVariable Exercise\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Coding\DataTypeVariable Exercise\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

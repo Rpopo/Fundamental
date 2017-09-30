@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+D:\Coding\DataTypeVariable Exercise\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+D:\Coding\DataTypeVariable Exercise\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+D:\Coding\DataTypeVariable Exercise\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+D:\Coding\DataTypeVariable Exercise\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

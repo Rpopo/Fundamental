@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Coding\DataTypeVariable Exercise\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Coding\DataTypeVariable Exercise\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Coding\DataTypeVariable Exercise\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Coding\DataTypeVariable Exercise\EmployeeData\obj\Debug\EmployeeData.pdb

@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+D:\Coding\DataTypeVariable Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+D:\Coding\DataTypeVariable Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+D:\Coding\DataTypeVariable Exercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+D:\Coding\DataTypeVariable Exercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

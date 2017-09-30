@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
+D:\Coding\DataTypeVariable Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+D:\Coding\DataTypeVariable Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+D:\Coding\DataTypeVariable Exercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+D:\Coding\DataTypeVariable Exercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb

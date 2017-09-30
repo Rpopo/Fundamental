@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\StringAndObject\bin\Debug\StringAndObject.exe.config
+D:\Coding\DataTypeVariable Exercise\StringAndObject\bin\Debug\StringAndObject.exe
+D:\Coding\DataTypeVariable Exercise\StringAndObject\bin\Debug\StringAndObject.pdb
+D:\Coding\DataTypeVariable Exercise\StringAndObject\obj\Debug\StringAndObject.exe
+D:\Coding\DataTypeVariable Exercise\StringAndObject\obj\Debug\StringAndObject.pdb

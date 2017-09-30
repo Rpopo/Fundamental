@@ -1,0 +1,5 @@
+D:\Coding\DataTypeVariable Exercise\Variable in Hex Format\bin\Debug\Variable in Hex Format.exe.config
+D:\Coding\DataTypeVariable Exercise\Variable in Hex Format\bin\Debug\Variable in Hex Format.exe
+D:\Coding\DataTypeVariable Exercise\Variable in Hex Format\bin\Debug\Variable in Hex Format.pdb
+D:\Coding\DataTypeVariable Exercise\Variable in Hex Format\obj\Debug\Variable in Hex Format.exe
+D:\Coding\DataTypeVariable Exercise\Variable in Hex Format\obj\Debug\Variable in Hex Format.pdb

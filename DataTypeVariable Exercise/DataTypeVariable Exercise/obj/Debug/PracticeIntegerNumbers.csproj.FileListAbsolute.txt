@@ -1,0 +1,6 @@
+D:\Coding\DataTypeVariable Exercise\DataTypeVariable Exercise\bin\Debug\DataTypeVariable Exercise.exe.config
+D:\Coding\DataTypeVariable Exercise\DataTypeVariable Exercise\bin\Debug\DataTypeVariable Exercise.exe
+D:\Coding\DataTypeVariable Exercise\DataTypeVariable Exercise\bin\Debug\DataTypeVariable Exercise.pdb
+D:\Coding\DataTypeVariable Exercise\DataTypeVariable Exercise\obj\Debug\PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Coding\DataTypeVariable Exercise\DataTypeVariable Exercise\obj\Debug\DataTypeVariable Exercise.exe
+D:\Coding\DataTypeVariable Exercise\DataTypeVariable Exercise\obj\Debug\DataTypeVariable Exercise.pdb
