@@ -1,0 +1,5 @@
+D:\Coding\LearningNewStuf\Exercise\bin\Debug\Exercise.exe.config
+D:\Coding\LearningNewStuf\Exercise\bin\Debug\Exercise.exe
+D:\Coding\LearningNewStuf\Exercise\bin\Debug\Exercise.pdb
+D:\Coding\LearningNewStuf\Exercise\obj\Debug\Exercise.exe
+D:\Coding\LearningNewStuf\Exercise\obj\Debug\Exercise.pdb

@@ -1,0 +1,6 @@
+D:\Coding\LearningNewStuf\CatchTheThief\bin\Debug\CatchTheThief.exe.config
+D:\Coding\LearningNewStuf\CatchTheThief\bin\Debug\CatchTheThief.exe
+D:\Coding\LearningNewStuf\CatchTheThief\bin\Debug\CatchTheThief.pdb
+D:\Coding\LearningNewStuf\CatchTheThief\obj\Debug\CatchTheThief.csprojResolveAssemblyReference.cache
+D:\Coding\LearningNewStuf\CatchTheThief\obj\Debug\CatchTheThief.exe
+D:\Coding\LearningNewStuf\CatchTheThief\obj\Debug\CatchTheThief.pdb

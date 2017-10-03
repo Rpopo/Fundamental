@@ -1,0 +1,5 @@
+D:\Coding\LearningNewStuf\NumberCheckers\bin\Debug\NumberCheckers.exe.config
+D:\Coding\LearningNewStuf\NumberCheckers\bin\Debug\NumberCheckers.exe
+D:\Coding\LearningNewStuf\NumberCheckers\bin\Debug\NumberCheckers.pdb
+D:\Coding\LearningNewStuf\NumberCheckers\obj\Debug\NumberCheckers.exe
+D:\Coding\LearningNewStuf\NumberCheckers\obj\Debug\NumberCheckers.pdb

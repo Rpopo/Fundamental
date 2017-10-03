@@ -1,0 +1,5 @@
+D:\Coding\LearningNewStuf\Weather Forecast\bin\Debug\Weather Forecast.exe.config
+D:\Coding\LearningNewStuf\Weather Forecast\bin\Debug\Weather Forecast.exe
+D:\Coding\LearningNewStuf\Weather Forecast\bin\Debug\Weather Forecast.pdb
+D:\Coding\LearningNewStuf\Weather Forecast\obj\Debug\Weather Forecast.exe
+D:\Coding\LearningNewStuf\Weather Forecast\obj\Debug\Weather Forecast.pdb

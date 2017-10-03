@@ -1,0 +1,5 @@
+D:\Coding\LearningNewStuf\TuristInformation\bin\Debug\TuristInformation.exe.config
+D:\Coding\LearningNewStuf\TuristInformation\bin\Debug\TuristInformation.exe
+D:\Coding\LearningNewStuf\TuristInformation\bin\Debug\TuristInformation.pdb
+D:\Coding\LearningNewStuf\TuristInformation\obj\Debug\TuristInformation.exe
+D:\Coding\LearningNewStuf\TuristInformation\obj\Debug\TuristInformation.pdb
