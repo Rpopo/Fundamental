@@ -22,7 +22,7 @@ namespace DrawaFilledSquare
             Console.Write('-');
             for (int i = 1; i < n; i++)
             {
-                Console.Write("\\/",n-2);
+                Console.Write("\\/");
             }
             Console.WriteLine('-');
         }

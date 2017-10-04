@@ -10,26 +10,32 @@ namespace MethodsDebuging_and_TroubleshootingCode
     {
         static void Main(string[] args)
         {
+            PrintReceip();
+        }
+
+        private static void PrintReceip()
+        {
             PrintHeader();
             PrintBody();
             PrintFooter();
         }
 
-        private static void PrintFooter()
+        private static void PrintHeader()
         {
-            Console.WriteLine("-----------------\n\u00A9 SoftUni");
+            Console.WriteLine("CASH RECEIP");
+            Console.WriteLine("------------------------------");
         }
 
         private static void PrintBody()
         {
-            Console.WriteLine("Change to________");
-            Console.WriteLine("Received by______");
+            Console.WriteLine("Change to_____________________");
+            Console.WriteLine("Received by___________________");
+        }
+        private static void PrintFooter()
+        {
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("\u00A9"+" "+"SoftUni");
         }
 
-        private static void PrintHeader()
-        {
-            Console.WriteLine("CASH RECEIP");
-            Console.WriteLine("-----------------");
-        }
     }
 }

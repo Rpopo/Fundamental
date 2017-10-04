@@ -1,0 +1,6 @@
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\GreaterOFTwoNumber\bin\Debug\GreaterOFTwoNumber.exe.config
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\GreaterOFTwoNumber\bin\Debug\GreaterOFTwoNumber.exe
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\GreaterOFTwoNumber\bin\Debug\GreaterOFTwoNumber.pdb
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\GreaterOFTwoNumber\obj\Debug\GreaterOFTwoNumber.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\GreaterOFTwoNumber\obj\Debug\GreaterOFTwoNumber.exe
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\GreaterOFTwoNumber\obj\Debug\GreaterOFTwoNumber.pdb

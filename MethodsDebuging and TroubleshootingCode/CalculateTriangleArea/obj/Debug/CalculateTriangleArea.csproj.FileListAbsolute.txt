@@ -1,0 +1,7 @@
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.csprojResolveAssemblyReference.cache
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

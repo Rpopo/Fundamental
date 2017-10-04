@@ -3,3 +3,10 @@ c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and Trou
 c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\bin\Debug\DrawaFilledSquare.pdb
 c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\obj\Debug\DrawaFilledSquare.exe
 c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\obj\Debug\DrawaFilledSquare.pdb
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\bin\Debug\DrawaFilledSquare.exe.config
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\bin\Debug\DrawaFilledSquare.exe
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\bin\Debug\DrawaFilledSquare.pdb
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\obj\Debug\DrawaFilledSquare.csprojResolveAssemblyReference.cache
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\obj\Debug\DrawaFilledSquare.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\obj\Debug\DrawaFilledSquare.exe
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\obj\Debug\DrawaFilledSquare.pdb

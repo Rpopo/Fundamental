@@ -1,0 +1,6 @@
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\MathPower\bin\Debug\MathPower.exe.config
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\MathPower\bin\Debug\MathPower.exe
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\MathPower\bin\Debug\MathPower.pdb
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\MathPower\obj\Debug\MathPower.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\MathPower\obj\Debug\MathPower.exe
+C:\Storage\Coding\MethodsDebuging and TroubleshootingCode\MathPower\obj\Debug\MathPower.pdb
