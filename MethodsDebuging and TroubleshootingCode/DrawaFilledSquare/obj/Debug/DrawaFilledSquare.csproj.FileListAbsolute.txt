@@ -1,0 +1,5 @@
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\bin\Debug\DrawaFilledSquare.exe.config
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\bin\Debug\DrawaFilledSquare.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\bin\Debug\DrawaFilledSquare.pdb
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\obj\Debug\DrawaFilledSquare.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\DrawaFilledSquare\obj\Debug\DrawaFilledSquare.pdb

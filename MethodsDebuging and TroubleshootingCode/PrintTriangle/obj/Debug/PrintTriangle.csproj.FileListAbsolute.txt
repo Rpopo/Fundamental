@@ -1,0 +1,5 @@
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\PrintTriangle\bin\Debug\PrintTriangle.exe.config
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\PrintTriangle\bin\Debug\PrintTriangle.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\PrintTriangle\bin\Debug\PrintTriangle.pdb
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\PrintTriangle\obj\Debug\PrintTriangle.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\PrintTriangle\obj\Debug\PrintTriangle.pdb

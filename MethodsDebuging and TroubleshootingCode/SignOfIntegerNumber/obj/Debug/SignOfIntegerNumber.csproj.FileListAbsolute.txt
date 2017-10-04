@@ -1,0 +1,5 @@
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe.config
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.pdb
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.pdb

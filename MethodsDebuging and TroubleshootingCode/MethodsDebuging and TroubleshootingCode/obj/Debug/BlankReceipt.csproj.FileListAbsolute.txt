@@ -1,0 +1,6 @@
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\MethodsDebuging and TroubleshootingCode\bin\Debug\MethodsDebuging and TroubleshootingCode.exe.config
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\MethodsDebuging and TroubleshootingCode\bin\Debug\MethodsDebuging and TroubleshootingCode.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\MethodsDebuging and TroubleshootingCode\bin\Debug\MethodsDebuging and TroubleshootingCode.pdb
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\MethodsDebuging and TroubleshootingCode\obj\Debug\BlankReceipt.csprojResolveAssemblyReference.cache
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\MethodsDebuging and TroubleshootingCode\obj\Debug\MethodsDebuging and TroubleshootingCode.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\MethodsDebuging and TroubleshootingCode\obj\Debug\MethodsDebuging and TroubleshootingCode.pdb

@@ -1,0 +1,5 @@
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\Temperature Conversion\bin\Debug\Temperature Conversion.exe.config
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\Temperature Conversion\bin\Debug\Temperature Conversion.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\Temperature Conversion\bin\Debug\Temperature Conversion.pdb
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\Temperature Conversion\obj\Debug\Temperature Conversion.exe
+c:\users\radoslav\documents\visual studio 2017\Projects\MethodsDebuging and TroubleshootingCode\Temperature Conversion\obj\Debug\Temperature Conversion.pdb
