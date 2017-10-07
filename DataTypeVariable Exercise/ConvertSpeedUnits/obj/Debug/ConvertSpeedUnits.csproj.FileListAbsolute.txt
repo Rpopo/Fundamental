@@ -3,3 +3,10 @@ D:\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnit
 D:\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
 D:\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
 D:\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb
+C:\Storage\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+C:\Storage\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+C:\Storage\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+C:\Storage\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+C:\Storage\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+C:\Storage\Coding\DataTypeVariable Exercise\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

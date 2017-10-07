@@ -1,0 +1,6 @@
+C:\Storage\Coding\MethodDebugingExercise\PrimeCheker\bin\Debug\PrimeCheker.exe.config
+C:\Storage\Coding\MethodDebugingExercise\PrimeCheker\bin\Debug\PrimeCheker.exe
+C:\Storage\Coding\MethodDebugingExercise\PrimeCheker\bin\Debug\PrimeCheker.pdb
+C:\Storage\Coding\MethodDebugingExercise\PrimeCheker\obj\Debug\PrimeCheker.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\MethodDebugingExercise\PrimeCheker\obj\Debug\PrimeCheker.exe
+C:\Storage\Coding\MethodDebugingExercise\PrimeCheker\obj\Debug\PrimeCheker.pdb

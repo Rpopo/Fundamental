@@ -1,0 +1,7 @@
+C:\Storage\Coding\MethodDebugingExercise\FirstNameOfLastDigit\bin\Debug\FirstNameOfLastDigit.exe.config
+C:\Storage\Coding\MethodDebugingExercise\FirstNameOfLastDigit\bin\Debug\FirstNameOfLastDigit.exe
+C:\Storage\Coding\MethodDebugingExercise\FirstNameOfLastDigit\bin\Debug\FirstNameOfLastDigit.pdb
+C:\Storage\Coding\MethodDebugingExercise\FirstNameOfLastDigit\obj\Debug\FirstNameOfLastDigit.csprojResolveAssemblyReference.cache
+C:\Storage\Coding\MethodDebugingExercise\FirstNameOfLastDigit\obj\Debug\FirstNameOfLastDigit.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\MethodDebugingExercise\FirstNameOfLastDigit\obj\Debug\FirstNameOfLastDigit.exe
+C:\Storage\Coding\MethodDebugingExercise\FirstNameOfLastDigit\obj\Debug\FirstNameOfLastDigit.pdb

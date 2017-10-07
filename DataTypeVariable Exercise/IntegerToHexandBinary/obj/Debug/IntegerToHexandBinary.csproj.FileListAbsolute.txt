@@ -1,0 +1,7 @@
+C:\Storage\Coding\DataTypeVariable Exercise\IntegerToHexandBinary\bin\Debug\IntegerToHexandBinary.exe.config
+C:\Storage\Coding\DataTypeVariable Exercise\IntegerToHexandBinary\bin\Debug\IntegerToHexandBinary.exe
+C:\Storage\Coding\DataTypeVariable Exercise\IntegerToHexandBinary\bin\Debug\IntegerToHexandBinary.pdb
+C:\Storage\Coding\DataTypeVariable Exercise\IntegerToHexandBinary\obj\Debug\IntegerToHexandBinary.csprojResolveAssemblyReference.cache
+C:\Storage\Coding\DataTypeVariable Exercise\IntegerToHexandBinary\obj\Debug\IntegerToHexandBinary.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\DataTypeVariable Exercise\IntegerToHexandBinary\obj\Debug\IntegerToHexandBinary.exe
+C:\Storage\Coding\DataTypeVariable Exercise\IntegerToHexandBinary\obj\Debug\IntegerToHexandBinary.pdb

@@ -1,0 +1,7 @@
+C:\Storage\Coding\DataTypeVariable Exercise\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Storage\Coding\DataTypeVariable Exercise\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Storage\Coding\DataTypeVariable Exercise\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Storage\Coding\DataTypeVariable Exercise\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Storage\Coding\DataTypeVariable Exercise\ComparingFloats\obj\Debug\ComparingFloats.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\DataTypeVariable Exercise\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Storage\Coding\DataTypeVariable Exercise\ComparingFloats\obj\Debug\ComparingFloats.pdb

@@ -1,0 +1,6 @@
+C:\Storage\Coding\MethodDebugingExercise\FibunachoNumbers\bin\Debug\FibunachoNumbers.exe.config
+C:\Storage\Coding\MethodDebugingExercise\FibunachoNumbers\bin\Debug\FibunachoNumbers.exe
+C:\Storage\Coding\MethodDebugingExercise\FibunachoNumbers\bin\Debug\FibunachoNumbers.pdb
+C:\Storage\Coding\MethodDebugingExercise\FibunachoNumbers\obj\Debug\FibunachoNumbers.csproj.CoreCompileInputs.cache
+C:\Storage\Coding\MethodDebugingExercise\FibunachoNumbers\obj\Debug\FibunachoNumbers.exe
+C:\Storage\Coding\MethodDebugingExercise\FibunachoNumbers\obj\Debug\FibunachoNumbers.pdb
