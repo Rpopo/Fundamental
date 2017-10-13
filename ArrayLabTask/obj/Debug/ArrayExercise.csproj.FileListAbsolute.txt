@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe.config
+C:\Users\HP\source\repos\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe
+C:\Users\HP\source\repos\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.pdb
+C:\Users\HP\source\repos\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.exe
+C:\Users\HP\source\repos\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.pdb
