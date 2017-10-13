@@ -1,0 +1,6 @@
+D:\Coding\MethodsDebuging and TroubleshootingCode\LabRepo\bin\Debug\LabRepo.exe.config
+D:\Coding\MethodsDebuging and TroubleshootingCode\LabRepo\bin\Debug\LabRepo.exe
+D:\Coding\MethodsDebuging and TroubleshootingCode\LabRepo\bin\Debug\LabRepo.pdb
+D:\Coding\MethodsDebuging and TroubleshootingCode\LabRepo\obj\Debug\LabRepo.exe
+D:\Coding\MethodsDebuging and TroubleshootingCode\LabRepo\obj\Debug\LabRepo.pdb
+D:\Coding\MethodsDebuging and TroubleshootingCode\LabRepo\obj\Debug\LabRepo.csprojResolveAssemblyReference.cache
