@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativeDigit", "ListTask\RemoveNegativeDigit.csproj", "{4CC86EC1-0997-4972-868D-E1FFC736CA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Append Lists", "Append Lists\Append Lists.csproj", "{D3AD624A-7932-4283-92A6-CF015EC14D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAdjacentEquelNumbers", "SumAdjacentEquelNumbers\SumAdjacentEquelNumbers.csproj", "{9A4088FD-2B29-4153-83D0-C6F34DD38FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split by Word Casing", "Split by Word Casing\Split by Word Casing.csproj", "{2D54BC47-C78F-4281-A3E5-1E9B505666A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNumbers", "SortNumbers\SortNumbers.csproj", "{4DE0C94D-ECC6-4B77-9C87-ACBEC9A8B4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square Numbers", "Square Numbers\Square Numbers.csproj", "{60CFB8D9-9440-4EA0-B59D-4A15F90BFB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Numbers", "Count Numbers\Count Numbers.csproj", "{C702F1EC-78CC-47F8-A48C-E7134F745596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC86EC1-0997-4972-868D-E1FFC736CA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC86EC1-0997-4972-868D-E1FFC736CA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC86EC1-0997-4972-868D-E1FFC736CA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC86EC1-0997-4972-868D-E1FFC736CA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AD624A-7932-4283-92A6-CF015EC14D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AD624A-7932-4283-92A6-CF015EC14D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AD624A-7932-4283-92A6-CF015EC14D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AD624A-7932-4283-92A6-CF015EC14D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4088FD-2B29-4153-83D0-C6F34DD38FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4088FD-2B29-4153-83D0-C6F34DD38FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4088FD-2B29-4153-83D0-C6F34DD38FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4088FD-2B29-4153-83D0-C6F34DD38FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D54BC47-C78F-4281-A3E5-1E9B505666A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D54BC47-C78F-4281-A3E5-1E9B505666A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D54BC47-C78F-4281-A3E5-1E9B505666A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D54BC47-C78F-4281-A3E5-1E9B505666A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE0C94D-ECC6-4B77-9C87-ACBEC9A8B4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE0C94D-ECC6-4B77-9C87-ACBEC9A8B4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE0C94D-ECC6-4B77-9C87-ACBEC9A8B4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE0C94D-ECC6-4B77-9C87-ACBEC9A8B4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CFB8D9-9440-4EA0-B59D-4A15F90BFB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CFB8D9-9440-4EA0-B59D-4A15F90BFB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CFB8D9-9440-4EA0-B59D-4A15F90BFB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CFB8D9-9440-4EA0-B59D-4A15F90BFB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C702F1EC-78CC-47F8-A48C-E7134F745596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C702F1EC-78CC-47F8-A48C-E7134F745596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C702F1EC-78CC-47F8-A48C-E7134F745596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C702F1EC-78CC-47F8-A48C-E7134F745596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B40FE436-12DD-4372-98C0-8C3AA0D1752E}
+	EndGlobalSection
+EndGlobal
