@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ListExercise\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
+C:\Users\HP\source\repos\ListExercise\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe
+C:\Users\HP\source\repos\ListExercise\SumReversedNumbers\bin\Debug\SumReversedNumbers.pdb
+C:\Users\HP\source\repos\ListExercise\SumReversedNumbers\obj\Debug\SumReversedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\ListExercise\SumReversedNumbers\obj\Debug\SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ListExercise\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
+C:\Users\HP\source\repos\ListExercise\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb

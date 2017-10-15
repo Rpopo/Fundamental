@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ListExercise\searchOfNumbers\bin\Debug\searchOfNumbers.exe.config
+C:\Users\HP\source\repos\ListExercise\searchOfNumbers\bin\Debug\searchOfNumbers.exe
+C:\Users\HP\source\repos\ListExercise\searchOfNumbers\bin\Debug\searchOfNumbers.pdb
+C:\Users\HP\source\repos\ListExercise\searchOfNumbers\obj\Debug\searchOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\ListExercise\searchOfNumbers\obj\Debug\searchOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ListExercise\searchOfNumbers\obj\Debug\searchOfNumbers.exe
+C:\Users\HP\source\repos\ListExercise\searchOfNumbers\obj\Debug\searchOfNumbers.pdb

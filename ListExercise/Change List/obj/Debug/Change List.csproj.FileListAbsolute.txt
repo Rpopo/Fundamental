@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\ListExercise\Change List\bin\Debug\Change List.exe.config
+C:\Users\HP\source\repos\ListExercise\Change List\bin\Debug\Change List.exe
+C:\Users\HP\source\repos\ListExercise\Change List\bin\Debug\Change List.pdb
+C:\Users\HP\source\repos\ListExercise\Change List\obj\Debug\Change List.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ListExercise\Change List\obj\Debug\Change List.exe
+C:\Users\HP\source\repos\ListExercise\Change List\obj\Debug\Change List.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\ListExercise\bombNumbers\bin\Debug\bombNumbers.exe.config
+C:\Users\HP\source\repos\ListExercise\bombNumbers\bin\Debug\bombNumbers.exe
+C:\Users\HP\source\repos\ListExercise\bombNumbers\bin\Debug\bombNumbers.pdb
+C:\Users\HP\source\repos\ListExercise\bombNumbers\obj\Debug\bombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ListExercise\bombNumbers\obj\Debug\bombNumbers.exe
+C:\Users\HP\source\repos\ListExercise\bombNumbers\obj\Debug\bombNumbers.pdb

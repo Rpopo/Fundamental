@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ListExercise\testError\bin\Debug\testError.exe.config
+C:\Users\HP\source\repos\ListExercise\testError\bin\Debug\testError.exe
+C:\Users\HP\source\repos\ListExercise\testError\bin\Debug\testError.pdb
+C:\Users\HP\source\repos\ListExercise\testError\obj\Debug\testError.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ListExercise\testError\obj\Debug\testError.exe
+C:\Users\HP\source\repos\ListExercise\testError\obj\Debug\testError.pdb
+C:\Users\HP\source\repos\ListExercise\testError\obj\Debug\testError.csprojResolveAssemblyReference.cache
