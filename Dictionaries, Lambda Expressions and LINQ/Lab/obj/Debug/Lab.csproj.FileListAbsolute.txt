@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Dictionaries, Lambda Expressions and LINQ\Lab\bin\Debug\Lab.exe.config
+C:\Users\HP\source\repos\Dictionaries, Lambda Expressions and LINQ\Lab\bin\Debug\Lab.exe
+C:\Users\HP\source\repos\Dictionaries, Lambda Expressions and LINQ\Lab\bin\Debug\Lab.pdb
+C:\Users\HP\source\repos\Dictionaries, Lambda Expressions and LINQ\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\Dictionaries, Lambda Expressions and LINQ\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Dictionaries, Lambda Expressions and LINQ\Lab\obj\Debug\Lab.exe
+C:\Users\HP\source\repos\Dictionaries, Lambda Expressions and LINQ\Lab\obj\Debug\Lab.pdb
