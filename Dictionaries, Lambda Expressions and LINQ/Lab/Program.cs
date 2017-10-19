@@ -10,15 +10,22 @@ namespace Lab
     {
         static void Main(string[] args)
         {
-            var phoneBook = new Dictionary<string, string>();
-            phoneBook["Rado"] = "0883355509";
-            phoneBook["Elena"] = "0883123421";
-            phoneBook["Gergana"] = "+359-122-123-12";
-            phoneBook["Home"] = "0-55-9-2-45-81";
-            string velu;
-            if (phoneBook.TryGetValue("Rado", out velu))
+            var numbers = Console.ReadLine().Split(' ').Select(double.Parse).ToList();
+            var count = new SortedDictionary<double, int>();
+            foreach (var item in numbers)
             {
-               // Console.WriteLine(velu);
+                if (count.ContainsKey(item))
+                {
+                    count[item]++;
+                }
+                else
+                {
+                    count[item] = 1;
+                }
+            }
+            foreach (var item in count)
+            {
+                Console.WriteLine("{0} - > {1}",count.Select(x=>x.Key));
             }
         }
     }
