@@ -10,22 +10,32 @@ namespace Lab
     {
         static void Main(string[] args)
         {
-            var numbers = Console.ReadLine().Split(' ').Select(double.Parse).ToList();
-            var count = new SortedDictionary<double, int>();
-            foreach (var item in numbers)
+            int n = int.Parse(Console.ReadLine());
+            var aggregateData = new Dictionary<string,Dictionary<int,List<int>>>();
+            for (int i = 0; i < n; i++)
             {
-                if (count.ContainsKey(item))
+
+                string[] input = Console.ReadLine().Split(' ').ToArray();
+                string name = input[1];
+                int durutarion = int.Parse(input[2]);
+                var ip = input[0].Split('.').Select(k => int.Parse(k)).ToArray();
+                if (!aggregateData.ContainsKey(name))
                 {
-                    count[item]++;
+                    aggregateData[name] = new Dictionary<int, List<int>>();
                 }
-                else
-                {
-                    count[item] = 1;
-                }
+                aggregateData[name][durutarion] = new List<int>();
+                aggregateData[name][durutarion].AddRange(ip);
+
             }
-            foreach (var item in count)
+
+            foreach (var data in aggregateData)
             {
-                Console.WriteLine("{0} - > {1}",count.Select(x=>x.Key));
+                var name = data.Value;
+                foreach (var item in name)
+                {
+
+
+                }
             }
         }
     }

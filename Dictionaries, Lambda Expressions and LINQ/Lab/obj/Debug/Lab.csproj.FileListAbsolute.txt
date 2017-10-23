@@ -2,5 +2,6 @@ D:\Coding\Dictionaries, Lambda Expressions and LINQ\Lab\bin\Debug\Lab.exe.config
 D:\Coding\Dictionaries, Lambda Expressions and LINQ\Lab\bin\Debug\Lab.exe
 D:\Coding\Dictionaries, Lambda Expressions and LINQ\Lab\bin\Debug\Lab.pdb
 D:\Coding\Dictionaries, Lambda Expressions and LINQ\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
 D:\Coding\Dictionaries, Lambda Expressions and LINQ\Lab\obj\Debug\Lab.exe
 D:\Coding\Dictionaries, Lambda Expressions and LINQ\Lab\obj\Debug\Lab.pdb

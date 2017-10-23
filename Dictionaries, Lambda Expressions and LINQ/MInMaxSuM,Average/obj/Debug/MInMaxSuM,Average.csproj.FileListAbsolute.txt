@@ -1,0 +1,6 @@
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\MInMaxSuM,Average\bin\Debug\MInMaxSuM,Average.exe.config
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\MInMaxSuM,Average\bin\Debug\MInMaxSuM,Average.exe
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\MInMaxSuM,Average\bin\Debug\MInMaxSuM,Average.pdb
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\MInMaxSuM,Average\obj\Debug\MInMaxSuM,Average.csproj.CoreCompileInputs.cache
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\MInMaxSuM,Average\obj\Debug\MInMaxSuM,Average.exe
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\MInMaxSuM,Average\obj\Debug\MInMaxSuM,Average.pdb

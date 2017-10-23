@@ -1,0 +1,6 @@
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\(star)PopulationCenter\bin\Debug\(star)PopulationCenter.exe.config
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\(star)PopulationCenter\bin\Debug\(star)PopulationCenter.exe
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\(star)PopulationCenter\bin\Debug\(star)PopulationCenter.pdb
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\(star)PopulationCenter\obj\Debug\(star)PopulationCenter.csproj.CoreCompileInputs.cache
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\(star)PopulationCenter\obj\Debug\(star)PopulationCenter.exe
+D:\Coding\Dictionaries, Lambda Expressions and LINQ\(star)PopulationCenter\obj\Debug\(star)PopulationCenter.pdb

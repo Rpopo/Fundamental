@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{29E42E12-EA35-4404-90CE-F72C52889ACC}</ProjectGuid>
+    <ProjectGuid>{2F6AEE50-8E57-4C65-BABD-D4FC541334AF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Lab</RootNamespace>
     <AssemblyName>Lab</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
